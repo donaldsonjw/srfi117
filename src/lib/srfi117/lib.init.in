@@ -1,5 +1,5 @@
 (declare-library! 'srfi117 
-   :version "1.0"
+   :version "@VERSION@"
    :srfi '(srfi117)
    :basename "srfi117"
    :module-eval 'srfi117/make_lib)
